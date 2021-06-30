@@ -17,11 +17,11 @@ We used pyodbc library to convert our mysql queries in the frontend to MongoDB i
 
 ### Before query execution
 
-
+![Screenshot (83)](https://user-images.githubusercontent.com/79534543/124023505-01ab1380-d9bc-11eb-9156-cb2a104402a9.png)
 
 ### After query execution
 
-
+![Screenshot (84)](https://user-images.githubusercontent.com/79534543/124023555-0d96d580-d9bc-11eb-9dc5-8fcdbcdcb80f.png)
 
 ## Functionalities of our web application
 
