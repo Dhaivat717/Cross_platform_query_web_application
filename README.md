@@ -1,4 +1,4 @@
-# Instacart Web Application
+# Cross platform query web application
 
 ## Data Transfer
 
